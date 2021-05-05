@@ -1,0 +1,41 @@
+######################
+# General
+######################
+*.class
+*.jar
+*.war
+*.log
+*.zip
+
+######################
+# Maven
+######################
+target
+*-pom.xml
+*.versionsBackup
+
+######################
+# Windows
+######################
+Thumbs.db
+Desktop.ini
+
+######################
+# MACOS
+######################
+*.DS_Store
+
+######################
+# IDEA
+######################
+**/*.iml
+.idea/*
+!.idea/runConfigurations/
+
+######################
+# VS Code
+######################
+**.factorypath
+**.settings
+**.project
+**.classpath
