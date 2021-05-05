@@ -14,19 +14,10 @@
     <modules>
         <module>module1</module>
         <module>module2</module>
-        <module>module3</module>
     </modules>
     <packaging>pom</packaging>
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
-    <dependencies>
-        <dependency>
-            <groupId>org.projectlombok</groupId>
-            <artifactId>lombok</artifactId>
-            <version>1.18.20</version>
-            <scope>provided</scope>
-        </dependency>
-    </dependencies>
 </project>

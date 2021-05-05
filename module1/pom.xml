@@ -10,10 +10,6 @@
     <modelVersion>4.0.0</modelVersion>
     <artifactId>module1</artifactId>
     <dependencies>
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-web</artifactId>
-        </dependency>
         <!-- FIXME IntelliJ doesn't recognize multimodule only in the Maven pane -->
         <dependency>
             <groupId>ch.mobi</groupId>
